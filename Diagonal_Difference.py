@@ -1,4 +1,3 @@
-
 def diagonalDifference(a):
     # Complete this function
     k = sum(a[i][n-i-1] for i in range(n))

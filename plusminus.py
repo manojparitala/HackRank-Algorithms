@@ -12,11 +12,6 @@ def plusMinus(arr):
     print(p/l)
     print(n/l)
     print(z/l)
-            
-            
-        
-        
-        
 
 if __name__ == "__main__":
     n = int(input().strip())
