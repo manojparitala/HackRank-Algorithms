@@ -1,3 +1,11 @@
+'''
+To Run the pytest, type the following in the terminal
+
+pytest -q test_wallet.py
+or
+python -m pytest test_wallet.py
+'''
+
 import pytest
 from wallet import Wallet, InSufficientFunds
 
